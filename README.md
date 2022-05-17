@@ -1,5 +1,5 @@
 # JSONCountries
-An application consuming web service over HTTP and its components alongside the implementation of JSON to output the countries' name, capital, region, population, and borders of selected the continent. 
+An application consuming web service over HTTP and its components alongside the implementation of JSON to output the countries' name, capital, region, population, and borders of the selected continent. 
 
 # What I Learned 
 - WebRequest and WebResponse classes of pluggable protocols
